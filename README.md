@@ -5,6 +5,6 @@ I used to dream of becoming a Machine Learning engineer, employing various algor
 | No. | Project | Tools | Tasks | Algorthims
 |----------|----------|----------|----------|----------|
 | 1 | [Fraudulent Claim Detection](https://github.com/Hannah-Abi/fraudulent-claim-detection-by-machine-learning) | python scikit learn| classification | Logistic Regression, Decision Tree |
-| 2 | [Marketing Campaign Response](https://github.com/Hannah-Abi/Marketing-Analysis---Logistic-Regression-Decision-Tree) | python scikit learn | classification | Logistic Regression, Decision Tree |
+| 2 | [Marketing Campaign Response](https://github.com/Hannah-Abi/Marketing-Analysis---Logistic-Regression-Decision-Tree) | python scikit learn | Classification | Logistic Regression, Decision Tree |
 | 3 | [Sentiment Analysis](https://github.com/Hannah-Abi/Sentiment-analysis/blob/main/NLP-with-CNN-Deep-Learning.ipynb) | python scikit learn | Natural Language Processing (NLP) | Conventional Neural Network |
- 
+| 4 | [Game-Review-Analysis](https://github.com/Hannah-Abi/Sentiment-analysis) | python scikit learn | Classification) | Naive-Bayes-Classififer |
